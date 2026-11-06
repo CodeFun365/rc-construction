@@ -1,0 +1,5 @@
+# Built output: Cloudflare Pages runs `node build.js` and serves ./site
+site/
+node_modules/
+.wrangler/
+.env
